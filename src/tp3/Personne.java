@@ -48,7 +48,7 @@ public Personne(){
 
 public String toString(){
 
-    return this.getNom()+" "+"a"+" "+ this.getSante()+" "+" Santé: "+" "+"et"+" "+this.getArmure()+" "+" Armure";
+    return this.getNom()+" "+"a"+" "+ this.getSante()+" "+"   Santé: "+" "+"et"+" "+this.getArmure()+" "+" Armure";
 
 }
 
