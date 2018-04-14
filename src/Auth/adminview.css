@@ -1,0 +1,78 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.fx-14{
+    -fx-font-size:14px;
+}
+
+.fx-16{
+    -fx-font-size:16px;
+}
+
+.fx-18{
+    -fx-font-size:18px;
+}
+.fx-24{
+    -fx-font-size:24px;
+}
+.fx-32{
+    -fx-font-size:32px;
+}
+.fx-48{
+    -fx-font-size:48px;
+}
+
+.fx-64{
+    -fx-font-size:64px;
+}
+
+.txt-center{
+    -fx-text-alignment:center;
+}
+
+.txt-justify{
+    -fx-text-alignment:justify;
+}
+.txt-left{
+    -fx-text-alignment:left;
+}
+.txt-right{
+    -fx-text-alignment:right;
+}
+
+.fill-light-gray{
+    -fx-fill:#ececec;
+    -fx-text-fill:#ececec;
+}
+
+.fill-grey{
+    -fx-fill:#9c9c9c;
+    -fx-text-fill:#9c9c9c;
+}
+.fill-dark{
+    -fx-fill:#4f5d55;
+    -fx-text-fill:#4f5d55;
+}
+
+.fill-white{
+    -fx-fill:#ffffff;
+    -fx-text-fill:#ffffff;
+}
+.back-white{
+    -fx-background-color:#ffffff;
+}
+
+.back-transparent{
+    -fx-background-color:transparent;
+    -fx-backfround-radius:0px;
+    
+}
+
+.back-light-grey{
+    -fx-backfround-color:#ececec;
+}
+.hover-hand{
+    -fx-cursor:hand;
+}
+
